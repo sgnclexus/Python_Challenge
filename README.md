@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-This purpose of this repo has two reasons to do some python practices and to practice a little bit of git commands
+The purpose of this repo has two reasons to do some python practices and to practice a little bit of git commands
 
 ## Getting Started <a name = "getting_started"></a>
 
