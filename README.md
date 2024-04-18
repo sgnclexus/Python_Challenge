@@ -24,19 +24,12 @@ Python installation
 
 A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
+We took this github course
 
 ```
-Give the example
+https://github.com/Asabeneh/30-Days-Of-Python
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## Usage <a name = "usage"></a>
 
