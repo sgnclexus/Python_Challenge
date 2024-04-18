@@ -1,4 +1,4 @@
-# Project Title
+# Lab to learn more about Python
 
 ## Table of Contents
 
@@ -9,19 +9,16 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This purpose of this repo has two reasons to do some python practices and to practice a little bit of git commands
 
 ## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+In this case ypu only need to follow days of this course
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Python installation
 
-```
-Give examples
-```
 
 ### Installing
 
@@ -43,4 +40,4 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+This space help me to remember basis in python.
