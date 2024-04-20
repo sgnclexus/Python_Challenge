@@ -141,3 +141,63 @@ print(not True)      # False -  Negation, the not operator turns true to false
 print(not False)      # True -  Negation, the not operator turns true to false
 print(not not True)      # True
 print(not not False)      # False
+
+
+#Exercises
+#a1
+myage = 37
+
+#a2
+myheight = 80.0 
+
+#a3
+complex_number = 8j
+
+#a4
+base = input('Enter base :')
+height = input('Enter height :')
+area = (int(base)*int(height))/2
+print('The area of the triangle is :',area)
+
+#a5
+sidea = input('Enter side a :')
+sideb = input('Enter side b :')
+sidec = input('Enter side c :')
+
+perimeter = (int(sidea)+int(sideb)+int(sidec))
+print('The perimeter of the triangle is :',perimeter)
+
+#6
+lenght = input('Enter lenght :')
+width = input('Enter width :')
+perimeter = 2*(int(lenght)+int(width))
+area = (int(lenght)*int(width))
+print('The perimeter of the triangle is :',perimeter)
+print('The area of the triangle is :',area)
+
+#a14
+text = 'I hope this course is not full of jargon'
+if 'jargon' in text:
+    print('The text exists')
+else:
+    print('The text doesnt exists')
+
+#a16
+lengthText = str(float(len('python')))
+print('The text on lengthText is :', lengthText)
+
+
+#a20
+if int(9.8) == 10:
+    print(True)
+else:
+    print(False)
+
+#a23
+lastvalue = 5
+value = 1
+print('Exponentiation')
+while value <= lastvalue:    
+    print(value, value**0,value**1,value**2,value**3)        
+    value += 1    
+    
